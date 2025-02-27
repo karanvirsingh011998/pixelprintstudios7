@@ -34,9 +34,9 @@ export default function Contact() {
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900">Our Location</h3>
                 <p className="text-gray-600">
-                  123 Print Studio Lane<br />
-                  Creative District<br />
-                  Design City, DC 12345
+                182/56, Industrial Area Phase 1<br />
+                  Chandigarh<br />
+                  INDIA 160002
                 </p>
               </div>
             </div>
@@ -44,14 +44,14 @@ export default function Contact() {
               <Phone className="h-6 w-6 text-indigo-600 mt-1" />
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900">Phone</h3>
-                <p className="text-gray-600">+1 (555) 123-4567</p>
+                <p className="text-gray-600">+91 8437333427</p>
               </div>
             </div>
             <div className="flex items-start">
               <Mail className="h-6 w-6 text-indigo-600 mt-1" />
               <div className="ml-4">
                 <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                <p className="text-gray-600">info@pixelprintstudios.com</p>
+                <p className="text-gray-600">karanvir011998@gmail.com</p>
               </div>
             </div>
           </div>

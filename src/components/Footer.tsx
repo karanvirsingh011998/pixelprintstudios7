@@ -57,15 +57,15 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin className="h-6 w-6 text-indigo-400 mr-2" />
-                <span>123 Print Studio Lane<br />Design City, DC 12345</span>
+                <span>182/56, Industrial Area Phase 1 <br />Chandigarh, IN 160002</span>
               </li>
               <li className="flex items-center">
                 <Phone className="h-6 w-6 text-indigo-400 mr-2" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 8437333427</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-6 w-6 text-indigo-400 mr-2" />
-                <span>info@pixelprintstudios.com</span>
+                <span>karanvir011998@gmail.com</span>
               </li>
             </ul>
           </div>
